@@ -8,7 +8,7 @@ const all = languages.concat(frameworks);
 // console.log(all);
 
 const newAll = [...frameworks, ...languages]
-// console.log(newAll);
+console.log(newAll);
 
 const multiDemArray = [1, 2, 3, [5, 8, 9], [11, 12, 15, [55, 66, [100, 101]]]];
 // console.log(multiDemArray.flat(Infinity));
