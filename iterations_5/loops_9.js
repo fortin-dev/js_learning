@@ -34,4 +34,3 @@ const allMarks = [
 ]
 
 const totalMarks = allMarks.reduce((acc, cValue) => acc+cValue)
-console.clear()
